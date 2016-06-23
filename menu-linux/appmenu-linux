@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=/home/migsalazar/path/to/runnable
+Icon=/home/migsalazar/path/to/icon.xpm
+Type=Application
+Terminal=false
+Comment=Description
+Name=Name
+GenericName=name-version
+StartupNotify=false
+Categories=tag;tag;tag;
