@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Example App
+GenericName=Example App
+Comment=Short app description
+Exec=/path/to/executable
+Icon=/path/to/icon.png
+Terminal=false
+StartupNotify=false
+Categories=Utility;
