@@ -1,0 +1,20 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.orig
+
+# Local-only secrets/config
+.env
+.env.*
